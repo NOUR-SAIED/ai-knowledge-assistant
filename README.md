@@ -2,8 +2,8 @@
 
 This project is a high-performance, locally-run conversational assistant that allows users to ask natural language questions about a private knowledge base of Confluence documents. It is built using a modern Retrieval-Augmented Generation (RAG) architecture to provide accurate, fast, and secure answers.
 
-![Streamlit App Screenshot](path/to/your/screenshot.png) 
-*(**Note:** After you run the app, take a nice screenshot and add it to a new `images` folder in your project. Then, update this path!)*
+![Streamlit App Screenshot](assets/app.jpeg) 
+
 
 ## The Problem
 Enterprise knowledge bases, like Confluence, often become vast and difficult to search using traditional keyword methods. This project was initiated to solve that problem by creating a system that understands a user's *intent* and provides direct, synthesized answers instead of just a list of links.
