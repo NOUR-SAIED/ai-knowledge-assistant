@@ -1,0 +1,8 @@
+requests
+streamlit
+beautifulsoup4
+langchain
+ctransformers==0.2.27
+chromadb
+onnxruntime
+requests
